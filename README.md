@@ -6,5 +6,5 @@ Repositorio para guardar todo lo referente a programas utils para organizar la t
 - Frecuencia de consumo en horas (cada 8 horas por ejemplo).
 - Tiempo de consumo (dias que se debe consumir)
 
-# Respuesta de salida:
+# Respuesta
 - Reporte en formato PDF con dia - nombre medicamento - horas de consumo
